@@ -1,6 +1,7 @@
 import {type JSX} from "react"
-import logo from "../assets/images/logo.svg"
-import sun from "../assets/images/icon-sun.svg"
+
+import logo from "../../public/images/logo.svg"
+import sun from "../../public/images/icon-sun.svg"
 
 const Header = (): JSX.Element => {
     return (
